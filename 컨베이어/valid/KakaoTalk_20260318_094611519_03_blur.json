@@ -1,0 +1,190 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "false",
+      "points": [
+        [
+          443.0,
+          389.5
+        ],
+        [
+          540.0,
+          530.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          634.0,
+          482.5
+        ],
+        [
+          735.0,
+          592.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          705.0,
+          616.5
+        ],
+        [
+          819.0,
+          713.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          534.0,
+          702.5
+        ],
+        [
+          647.0,
+          799.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          341.0,
+          584.5
+        ],
+        [
+          465.0,
+          707.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          428.0,
+          700.5
+        ],
+        [
+          508.0,
+          826.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          144.0,
+          588.5
+        ],
+        [
+          247.0,
+          705.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          40.0,
+          867.5
+        ],
+        [
+          156.0,
+          971.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          323.0,
+          983.5
+        ],
+        [
+          431.0,
+          1107.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          135.0,
+          1038.5
+        ],
+        [
+          253.0,
+          1142.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "KakaoTalk_20260318_094611519_03_blur.jpg",
+  "imageData": null,
+  "imageHeight": 1600,
+  "imageWidth": 901
+}

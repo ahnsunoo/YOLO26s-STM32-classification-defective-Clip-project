@@ -1,0 +1,118 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "true",
+      "points": [
+        [
+          711.6666666666666,
+          33.00000000000003
+        ],
+        [
+          878.3333333333334,
+          83.00000000000003
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          621.6666666666666,
+          223.00000000000006
+        ],
+        [
+          798.3333333333334,
+          306.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          946.6666666666666,
+          288.00000000000006
+        ],
+        [
+          1125.0000000000002,
+          401.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          596.6666666666666,
+          471.3333333333334
+        ],
+        [
+          785.0,
+          621.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          906.6666666666666,
+          564.6666666666667
+        ],
+        [
+          1105.0000000000002,
+          683.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          760.0,
+          751.3333333333335
+        ],
+        [
+          951.6666666666666,
+          871.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "KakaoTalk_20260318_092427309_14.jpg",
+  "imageData": null,
+  "imageHeight": 901,
+  "imageWidth": 1600
+}

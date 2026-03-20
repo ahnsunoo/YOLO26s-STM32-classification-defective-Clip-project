@@ -1,0 +1,280 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "false",
+      "points": [
+        [
+          189.21212121212125,
+          1168.787878787879
+        ],
+        [
+          425.5757575757576,
+          1386.969696969697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          661.9393939393939,
+          1077.878787878788
+        ],
+        [
+          922.5454545454546,
+          1438.4848484848485
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          1158.909090909091,
+          1074.848484848485
+        ],
+        [
+          1352.848484848485,
+          1223.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          284.66666666666686,
+          1555.7894736842109
+        ],
+        [
+          407.47368421052647,
+          1813.684210526316
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          698.701754385965,
+          1650.526315789474
+        ],
+        [
+          939.0526315789474,
+          1773.3333333333337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          1219.7543859649122,
+          1504.9122807017545
+        ],
+        [
+          1391.6842105263158,
+          1747.0175438596495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          1249.578947368421,
+          1789.1228070175441
+        ],
+        [
+          1425.017543859649,
+          2118.9473684210525
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          856.5964912280702,
+          1980.3508771929826
+        ],
+        [
+          968.8771929824562,
+          2232.9824561403507
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          393.4385964912283,
+          2164.561403508772
+        ],
+        [
+          663.6140350877195,
+          2259.298245614035
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          418.0000000000001,
+          2461.052631578947
+        ],
+        [
+          675.8947368421054,
+          2689.122807017544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          825.0175438596492,
+          2359.298245614035
+        ],
+        [
+          1070.6315789473683,
+          2513.684210526316
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          1310.982456140351,
+          2247.017543859649
+        ],
+        [
+          1474.140350877193,
+          2464.561403508772
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          474.1403508771931,
+          2845.2631578947367
+        ],
+        [
+          663.6140350877195,
+          3073.333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "true",
+      "points": [
+        [
+          921.5087719298248,
+          2822.456140350877
+        ],
+        [
+          1177.6491228070174,
+          2896.1403508771928
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "false",
+      "points": [
+        [
+          1360.1052631578948,
+          2610.175438596491
+        ],
+        [
+          1608.5797101449275,
+          2781.304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "KakaoTalk_20260318_104942685_05.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 1836
+}
